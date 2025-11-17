@@ -71,5 +71,3 @@ Para identificar qué está consumiendo los 155 GB detectados anteriormente, se 
 2.  **Directorio `/home`:** Se identifica como el consumidor principal de espacio con **115 GB**.
 3.  **Desglose por Usuario:** Dentro de `/home`, el usuario **`rocha`** está ocupando **114 GB**, siendo el responsable de la mayor parte del consumo de disco en el servidor.
 
----
-*Generado para la Unidad 2 - Monitorización*
