@@ -64,5 +64,4 @@ El comando utilizado fue `sudo tcptrack -i eno1` para escuchar específicamente 
 * **Tiempos de inactividad (Idle):** La columna *Idle* muestra cuántos segundos han pasado desde el último paquete transferido en esa conexión (ej. 15s, 20s).
 * **Velocidad:** En el momento de la captura, la velocidad (*Speed*) es 0 B/s, indicando que las conexiones están abiertas pero no están transfiriendo datos activamente en ese preciso segundo.
 
----
-*Generado para la Unidad 3 - Redes*
+
